@@ -1,9 +1,8 @@
-Copyright: © 2015 ICEcoder Ltd
-Website:   icecoder.net  
-Email:     info@icecoder.net
-Twitter:   @icecoder
+Copyright: Â© 2016 Farg Labs
+Website:   farglabs.tk/nicecoder
+Email:     farglabs+nICEcoder@gmail.com
 
-#ICEcoder License
+#nICEcoder License
 ##Standard Open Source Initiative MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +23,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ```
-Please note that this LICENSE file covers the ICEcoder shell IDE only and 3rd
-party code, in subfolders such as CodeMirror and plugins, may contain their
-own LICENSE files, and may not also be an MIT licence.
+Please note that this LICENSE file covers the nICEcoder shell IDE only; third
+party code (in subfolders such as CodeMirror and plugins) may contain their
+own LICENSE files, which also may not be an MIT licence. Also, the majority of
+the nICEcoder shell IDE code was forked from the ICEcoder project. Many thanks
+to mattpass of ICEcoder Ltd.
+His website: icecoder.net
+His email: info@icecoder.net
+His Twitter: @icecoder
 ```
